@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Kevin's Travel Log</title>
+</head>
+
+<body>
+  <nav>
+    <a href="./homepage.html">homepage</a>
+    <a href="./toronto.html">toronto</a>
+    <a href="./macau.html">macau</a>
+    <a href="./hawaii.html">hawaii</a>
+  </nav>
+
+  <h1>Kevin's Travel Log</h1>
+  <nav>
+    <ul>
+      <li><a href="#toronto">Toronto</a></li>
+      <li><a href="#macau">Macau</a></li>
+      <li><a href="#hawaii">Hawaii</a></li>
+    </ul>
+  </nav>
+
+  <div id="toronto">
+    <h2>Toronto</h2>
+    <p>blah blah blah</p>
+    <img src="https://content.codecademy.com/courses/web-101/web101-image_brownbear.jpg" alt="Kevin in Toronto" width="500" height="500">
+    <a href="https://en.wikipedia.org/wiki/Toronto" target="_blank">Learn More</a>
+  </div>
+
+  <div id="macau">
+    <h2>Macau</h2>
+    <p>blah blah blah</p>
+    <img src="https://content.codecademy.com/courses/web-101/web101-image_brownbear.jpg" alt="Kevin in Macau" width="500" height="500">
+    <a href="https://en.wikipedia.org/wiki/Macau" target="_blank">Learn More</a>
+  </div>
+
+  <div id="hawaii">
+    <h2>Hawaii</h2>
+    <p>blah blah blah</p>
+    <img src="https://content.codecademy.com/courses/web-101/web101-image_brownbear.jpg" alt="Kevin in Hawaii" width="500" height="500">
+    <a href="https://en.wikipedia.org/wiki/Hawaii" target="_blank">Learn More</a>
+  </div>
+</body>
+
+</html>
+
+
+
